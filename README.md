@@ -2,9 +2,9 @@
 Django web application inspired from Meta backend course.
 
 # Contents
-1. [Preview](preview)
-2. [Steps](steps)
-3. [Technologies](technologies)
+1. [Preview](#preview)
+2. [Steps](#steps)
+3. [Technologies](#technologies)
 
 # Preview
 
